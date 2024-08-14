@@ -1,0 +1,36 @@
+.dashboard {
+  padding: 1rem;
+}
+
+.category {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+
+.widgets {
+  margin-top: 1rem;
+}
+
+.widget {
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  padding: 0.5rem;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+button {
+  background-color: #f44336;
+  border: none;
+  color: white;
+  padding: 0.5rem;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #c62828;
+}
